@@ -42,8 +42,10 @@ Tema özelleştirmesi hakkında daha fazla bilgi edinin: https://www.sosyallift.
 OneTab MAĞAZASI
 OneTab'ın, indirilebilecek çok sayıda tema ve eklenti içeren kendi genel mağazası vardır. Mağazadaki temalar ve eklentiler, OneTab Foundation ekibi veya üçüncü taraf katkıda bulunanlar tarafından oluşturulur. Kullanıcılar eklentilerini ve temalarını toplulukla paylaşarak Mağaza'ya gönderebilirler.
 
+
+
 OneTab Store hakkında daha fazla bilgi:
 
-OneTab Mağazası: https://www.sosyallift.com/store/
+OneTab Mağazası: https://www.sosyallift.com/store
 OneTab Store kullanım şartları: https://www.sosyallift.com/store/terms
 OneTab Mağazası Ticari Lisansı: https://www.sosyallift.com/store/oscl
